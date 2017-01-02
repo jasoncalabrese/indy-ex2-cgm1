@@ -1,5 +1,37 @@
 [
   {
+    "trend_arrow": "45_DOWN", 
+    "display_time": "2017-01-01T20:19:53-08:00", 
+    "noise": 1, 
+    "direction": "FortyFiveDown", 
+    "system_time": "2017-01-02T03:11:49-08:00", 
+    "sgv": 212, 
+    "dateString": "2017-01-01T20:19:53-08:00", 
+    "device": "openaps://indy-ex2/cgm", 
+    "unfiltered": 215872, 
+    "rssi": 192, 
+    "date": 1483330793000.0, 
+    "filtered": 225760, 
+    "type": "sgv", 
+    "glucose": 212
+  }, 
+  {
+    "trend_arrow": "NOT_COMPUTABLE", 
+    "display_time": "2017-01-01T20:14:53-08:00", 
+    "noise": 3, 
+    "direction": "NOT COMPUTABLE", 
+    "system_time": "2017-01-02T03:06:48-08:00", 
+    "sgv": 228, 
+    "dateString": "2017-01-01T20:14:53-08:00", 
+    "device": "openaps://indy-ex2/cgm", 
+    "unfiltered": 217056, 
+    "rssi": 176, 
+    "date": 1483330493000.0, 
+    "filtered": 230080, 
+    "type": "sgv", 
+    "glucose": 228
+  }, 
+  {
     "trend_arrow": "NOT_COMPUTABLE", 
     "display_time": "2017-01-01T20:09:53-08:00", 
     "noise": 3, 
@@ -62,37 +94,5 @@
     "filtered": 215584, 
     "type": "sgv", 
     "glucose": 212
-  }, 
-  {
-    "trend_arrow": "NOT_COMPUTABLE", 
-    "display_time": "2017-01-01T19:49:53-08:00", 
-    "noise": 3, 
-    "direction": "NOT COMPUTABLE", 
-    "system_time": "2017-01-02T02:41:48-08:00", 
-    "sgv": 211, 
-    "dateString": "2017-01-01T19:49:53-08:00", 
-    "device": "openaps://indy-ex2/cgm", 
-    "unfiltered": 214080, 
-    "rssi": 177, 
-    "date": 1483328993000.0, 
-    "filtered": 214912, 
-    "type": "sgv", 
-    "glucose": 211
-  }, 
-  {
-    "trend_arrow": "NOT_COMPUTABLE", 
-    "display_time": "2017-01-01T19:44:53-08:00", 
-    "noise": 4, 
-    "direction": "NOT COMPUTABLE", 
-    "system_time": "2017-01-02T02:36:48-08:00", 
-    "sgv": 10, 
-    "dateString": "2017-01-01T19:44:53-08:00", 
-    "device": "openaps://indy-ex2/cgm", 
-    "unfiltered": 213216, 
-    "rssi": 176, 
-    "date": 1483328693000.0, 
-    "filtered": 213952, 
-    "type": "sgv", 
-    "glucose": 10
   }
 ]
