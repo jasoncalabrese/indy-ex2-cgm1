@@ -1,6 +1,38 @@
 [
   {
     "trend_arrow": "45_DOWN", 
+    "display_time": "2017-01-21T14:08:30-08:00", 
+    "noise": 1, 
+    "system_time": "2017-01-21T21:00:25-08:00", 
+    "direction": "FortyFiveDown", 
+    "sgv": 100, 
+    "dateString": "2017-01-21T14:08:30-08:00", 
+    "date": 1485036510000, 
+    "unfiltered": 101296, 
+    "filtered": 108656, 
+    "device": "openaps://indy-ex2/cgm", 
+    "rssi": 187, 
+    "type": "sgv", 
+    "glucose": 100
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "display_time": "2017-01-21T14:03:30-08:00", 
+    "noise": 1, 
+    "system_time": "2017-01-21T20:55:25-08:00", 
+    "direction": "FortyFiveDown", 
+    "sgv": 107, 
+    "dateString": "2017-01-21T14:03:30-08:00", 
+    "date": 1485036210000, 
+    "unfiltered": 106256, 
+    "filtered": 113456, 
+    "device": "openaps://indy-ex2/cgm", 
+    "rssi": 196, 
+    "type": "sgv", 
+    "glucose": 107
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
     "display_time": "2017-01-21T13:58:30-08:00", 
     "noise": 1, 
     "system_time": "2017-01-21T20:50:26-08:00", 
@@ -71,11 +103,11 @@
     "direction": "Flat", 
     "sgv": 149, 
     "dateString": "2017-01-21T13:38:31-08:00", 
-    "date": 1485034711000, 
-    "unfiltered": 136224, 
-    "filtered": 142816, 
     "device": "openaps://indy-ex2/cgm", 
+    "unfiltered": 136224, 
     "rssi": 447, 
+    "date": 1485034711000, 
+    "filtered": 142816, 
     "type": "sgv", 
     "glucose": 149
   }, 
@@ -4549,34 +4581,5 @@
     "filtered": 136512, 
     "type": "sgv", 
     "glucose": 126
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "display_time": "2017-01-20T15:38:34-08:00", 
-    "noise": 1, 
-    "system_time": "2017-01-20T22:30:30-08:00", 
-    "direction": "FortyFiveDown", 
-    "sgv": 135, 
-    "dateString": "2017-01-20T15:38:34-08:00", 
-    "date": 1484955514000, 
-    "unfiltered": 124640, 
-    "filtered": 132384, 
-    "device": "openaps://indy-ex2/cgm", 
-    "rssi": 202, 
-    "type": "sgv", 
-    "glucose": 135
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "display_time": "2017-01-20T15:33:34-08:00", 
-    "noise": 1, 
-    "system_time": "2017-01-20T22:25:29-08:00", 
-    "direction": "FortyFiveDown", 
-    "sgv": 131, 
-    "dateString": "2017-01-20T15:33:34-08:00", 
-    "device": "openaps://indy-ex2/cgm", 
-    "date": 1484955214000, 
-    "type": "sgv", 
-    "glucose": 131
   }
 ]
