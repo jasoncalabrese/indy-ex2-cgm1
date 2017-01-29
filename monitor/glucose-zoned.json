@@ -1,6 +1,38 @@
 [
   {
     "trend_arrow": "45_DOWN", 
+    "display_time": "2017-01-29T00:42:37-08:00", 
+    "noise": 1, 
+    "direction": "FortyFiveDown", 
+    "system_time": "2017-01-29T07:33:58-08:00", 
+    "sgv": 214, 
+    "dateString": "2017-01-29T00:42:37-08:00", 
+    "device": "openaps://indy-ex2/cgm", 
+    "unfiltered": 204160, 
+    "rssi": 171, 
+    "date": 1485679357000.0, 
+    "filtered": 210144, 
+    "type": "sgv", 
+    "glucose": 214
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "display_time": "2017-01-29T00:37:37-08:00", 
+    "noise": 1, 
+    "direction": "FortyFiveDown", 
+    "system_time": "2017-01-29T07:28:58-08:00", 
+    "sgv": 218, 
+    "dateString": "2017-01-29T00:37:37-08:00", 
+    "device": "openaps://indy-ex2/cgm", 
+    "unfiltered": 206848, 
+    "rssi": 169, 
+    "date": 1485679057000.0, 
+    "filtered": 217088, 
+    "type": "sgv", 
+    "glucose": 218
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
     "display_time": "2017-01-29T00:32:37-08:00", 
     "noise": 1, 
     "direction": "FortyFiveDown", 
@@ -62,37 +94,5 @@
     "filtered": 222624, 
     "type": "sgv", 
     "glucose": 243
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "display_time": "2017-01-29T00:12:37-08:00", 
-    "noise": 1, 
-    "direction": "FortyFiveUp", 
-    "system_time": "2017-01-29T07:03:58-08:00", 
-    "sgv": 240, 
-    "dateString": "2017-01-29T00:12:37-08:00", 
-    "device": "openaps://indy-ex2/cgm", 
-    "unfiltered": 226048, 
-    "rssi": 191, 
-    "date": 1485677557000.0, 
-    "filtered": 215840, 
-    "type": "sgv", 
-    "glucose": 240
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "display_time": "2017-01-29T00:07:37-08:00", 
-    "noise": 1, 
-    "direction": "FortyFiveUp", 
-    "system_time": "2017-01-29T06:58:58-08:00", 
-    "sgv": 232, 
-    "dateString": "2017-01-29T00:07:37-08:00", 
-    "device": "openaps://indy-ex2/cgm", 
-    "unfiltered": 219104, 
-    "rssi": 185, 
-    "date": 1485677257000.0, 
-    "filtered": 207392, 
-    "type": "sgv", 
-    "glucose": 232
   }
 ]
